@@ -13,8 +13,12 @@
 - 👨‍💻 &nbsp; Coach adryan Ynfante
 
 
+<h3> 👨🏻•💻 TEAM 👨🏻•💻 </h3>
+
+- 🎓 &nbsp; Juan David Quimbayo Nuñez.
+
+
 # Test Aprobado
 ![testsokDDD](https://github.com/JDQN/Test-DDD/blob/main/img.jpeg?raw=true)
 
 
-by Juan David Quimbayo Núñez 
