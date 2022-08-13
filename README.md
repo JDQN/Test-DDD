@@ -2,7 +2,7 @@
 ## Implementar caso de uso de agregarDirectrizAMentoria() con AAA
 
 
-Test pasado
+# Test Aprobado
 ![testsokDDD](https://github.com/JDQN/Test-DDD/blob/main/img.jpeg?raw=true)
 
 
