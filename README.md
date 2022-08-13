@@ -10,7 +10,7 @@
 
 - 👨‍💻 &nbsp; Sofka University.
 - 👨‍💻 &nbsp; Coach Julian Lasso.
-- 👨‍💻 &nbsp; Coach adryan Ynfante
+- 👨‍💻 &nbsp; Coach Adryan Ynfante
 
 
 <h3> 👨🏻•💻 TEAM 👨🏻•💻 </h3>
