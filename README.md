@@ -3,7 +3,7 @@
 
 
 Test pasado
-![testsokDDD](https://user-images.githubusercontent.com/92740455/168683875-eb7a3b79-04f3-4f57-bf49-9effa179bd96.jpg)
+![testsokDDD](https://github.com/JDQN/Test-DDD/blob/main/img.jpeg?raw=true)
 
 
 by Juan David Quimbayo Núñez 
