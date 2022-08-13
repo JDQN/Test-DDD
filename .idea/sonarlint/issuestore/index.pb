@@ -11,16 +11,12 @@ xEntrenamiento-CasoUso-main/domain/src/main/java/co/com/sofkau/entrenamiento/cur
 xEntrenamiento-CasoUso-main/domain/src/main/java/co/com/sofkau/entrenamiento/curso/events/DirectrizAgregadaAMentoria.java,5\a\5a19b0dd1a0172669c1333971bd14f467bdad71c
 ô
 iEntrenamiento-CasoUso-main/domain/src/main/java/co/com/sofkau/entrenamiento/curso/events/CursoCreado.java,6\a\6a43dec9f4cb5ffefc2d81359773257869fb5970
-ß
-wEntrenamiento-CasoUso-main/business/src/main/java/co/com/sofkau/entrenamento/curso/AgregarDirectrizMentoriaUseCase.java,d\0\d066ac5bddef2609945e47b4db834e2fd7511e64
 û
 nEntrenamiento-CasoUso-main/business/src/main/java/co/com/sofkau/entrenamento/curso/AgregarMentoriaUseCase.java,7\9\797d5cc0e6dcecc78040552d527c51a9a216903c
 [
 +Entrenamiento-CasoUso-main/business/pom.xml,7\4\7422e4654680e4a65f4c2a02dbb88ecaa48e0a74
 è
 _Entrenamiento-CasoUso-main/domain/src/main/java/co/com/sofkau/entrenamiento/curso/Mentoria.java,1\1\1114dd08d8a9ff98f09a6baf4a81c563f2c571d7
-å
-\Entrenamiento-CasoUso-main/domain/src/main/java/co/com/sofkau/entrenamiento/curso/Curso.java,0\f\0ff905e29eeb13b9d7d301ed5d0ab98cea4036eb
 ¢
 rEntrenamiento-CasoUso-main/business/src/test/java/co/com/sofkau/entrenamento/curso/AgregarMentoriaUseCaseTest.java,2\1\2119d0a7ba474820c975dfd90169ce8ba93cbc27
 ù

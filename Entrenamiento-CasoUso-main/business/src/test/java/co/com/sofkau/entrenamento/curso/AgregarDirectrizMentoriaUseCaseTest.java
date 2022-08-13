@@ -48,12 +48,12 @@ public class AgregarDirectrizMentoriaUseCaseTest {
          * Arrange
          * Se crea el curso con una directriz y una mentoria asociada a el curso
          */
-        var mentoriaId = MentoriaId.of("DDD1");
-        var cursoId = CursoId.of("DDD2");
-        var nombre = new Nombre("Juan");
-        var directiz = new Directiz("Nueva Directriz");
-        var descripcion = new Descripcion("Nueva Descripcion");
-        var fecha = new Fecha(LocalDateTime.now(), LocalDate.now());
+        MentoriaId mentoriaId = MentoriaId.of("DDD1");
+        CursoId cursoId = CursoId.of("DDD2");
+        Nombre nombre = new Nombre("Juan");
+        Directiz directiz = new Directiz("Nueva Directriz");
+        Descripcion descripcion = new Descripcion("Nueva Descripcion");
+        Fecha fecha = new Fecha(LocalDateTime.now(), LocalDate.now());
         var command = new AgregarDirectrizMentoria(cursoId, mentoriaId, directiz);
 
         when(repository.getEventsBy("DDD2")).thenReturn(history());
@@ -94,5 +94,6 @@ public class AgregarDirectrizMentoriaUseCaseTest {
         return List.of(event,event2);
     }
 }
+
 
 
